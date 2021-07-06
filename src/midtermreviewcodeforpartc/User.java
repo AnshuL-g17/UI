@@ -14,7 +14,6 @@ public class User
 {
     private String name;
     private String password;
-    public int one;
     
     /**
      * a constructor that takes in the user's name and password
